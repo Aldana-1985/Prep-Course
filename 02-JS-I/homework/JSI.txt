@@ -1,0 +1,16 @@
+
+1)
+	- VARIABLES: es una manera de guardar el valor de
+algo para luego recuperarlo.
+	- STRING: es un tipo de dato, que esta conformado
+por caracteres como las letras y siempre deben estar dentro de comillas.
+	- FUNCIONES: son parte del lenguaje de programación. Agrupa código y
+lo guarda para luego ejecutarlo. Es decir, son objetos que se invocan.
+ARGUMENTOS: son como una variable que declaramos adentro de la función que
+van a tomar un valor cuando invoque dicha función.
+RETURN: es la unica forma en que los datos escapan de una función.
+	- DECLARACIONES IF: es una forma de que la función verifique
+si algo es True/False, y se utiliza la palabra clave IF.
+	- VALORES BOOLEANOS (TRUE, FALSE): son expresiones lógicas que quiere
+decir que se tiene dos opciones posibles como True/False (estas son palabras 
+reservadas)
