@@ -1,0 +1,7 @@
+FOR: es un bucle, es decir hacen que un bloque se ejecute 
+N veces. Es similar a if pero como algunas diferencias en su estructura.
+
+    &&: es un operador lógico que evaluará ambas expresiones
+y devolverá TRUE solo sí ambas expresiones son TRUE.
+    ||: este devolverá TRUE si una o ambas de las expresiones es TRUE.
+    !: este devolverá el valor booleano opuesto de lo que se le pasa.
