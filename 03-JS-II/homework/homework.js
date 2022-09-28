@@ -186,9 +186,9 @@ function tieneTresDigitos(numero){
   //Escribe tu código aquí
   if (numero > 99 && numero < 1000) {
     return true;
-     } else {
-          return false;
-     }     
+  } else {
+      return false;
+  }     
 }
 
 function doWhile(numero) {
