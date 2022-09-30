@@ -1,0 +1,17 @@
+Objetos: es un tipo de dato que se utiliza para guardar 
+         un grupo de pares de clave-valor. Se utiliza las llaves {}
+
+Propiedades: es una asociación entre una clave y un valor
+
+Métodos: son las funciones guardadas dentro de un objeto.
+
+Bucle for…in: en este bucle se declara una variable, la palabara clave IN 
+              y luego el nombre del objeto.
+              Este bucle recorrera cada clave del objeto y finalizará una vez
+              que haya iterado en todas las claves.
+
+Notación de puntos vs notación de corchetes: ambas son maneras de acceder o asignar objetos.
+              Dot Notation / notación de puntos se accede a una propiedad dando el nombre del objeto
+              seguido de un punto y luego la clave.
+              Bracket Notation / notación de corchetes el nombre del objeto va seguido de corchetes
+              y dentro de ellos la clave escrita como una cadena.
