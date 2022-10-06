@@ -1,0 +1,3 @@
+Prototype: es la forma en la que los objetos heredan características unos de otros.
+Constructors (de Clases): es una función que sirve para crear nuevos objetos.
+Deben comenzar con mayúsculas.
